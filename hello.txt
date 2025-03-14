@@ -1,3 +1,7 @@
 hello
 
+<<<<<<< HEAD
 hi hello #kimjeongjae1
+=======
+annyeonghaseyo!  # won95kim
+>>>>>>> 00e6701d1e9dbd02b5e662494b453aa6b237a50a
